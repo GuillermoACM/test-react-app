@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect } from 'react';
 import { motion } from 'framer-motion';
 
 // import { About, Footer, Header, Skills, Work, Experience } from './container';
